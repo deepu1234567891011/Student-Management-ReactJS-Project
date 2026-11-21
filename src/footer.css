@@ -1,0 +1,10 @@
+.div{
+    background-color: red;
+    padding:30px;
+
+}
+.div h2,h3,h1{
+    text-align: center;
+    color: black;
+    margin:20px;
+}

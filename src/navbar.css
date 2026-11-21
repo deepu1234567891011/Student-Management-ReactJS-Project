@@ -1,0 +1,19 @@
+.nav{
+    background-color: blue;
+    color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:15px 30px;
+}
+.nav ul{
+    display: flex;
+    gap: 25px;
+    list-style: none;
+    margin: 0;
+    padding:0;
+}
+.nav ul li{
+    cursor:pointer;
+    font-size: 18px;
+}

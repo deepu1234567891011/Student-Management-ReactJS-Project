@@ -1,0 +1,22 @@
+/* .card{
+    width:100%;
+    padding:15px;
+    border:2px solid blue;
+    border-radius: 10px;
+}
+.shop{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:20px;
+    padding:20px;
+}
+.card img{
+    width:300px;
+    border-radius: 10px;
+}
+.card h3{
+    font-size: 25px;
+}
+.card p{
+    font-size: 20px;
+} */
